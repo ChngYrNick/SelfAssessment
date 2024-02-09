@@ -110,7 +110,7 @@
   - Record: h
   - Enum: u
   - Instance: u
-  - Cbject: u
+  - Object: u
   - Collection: u
   - Set: u
   - Hash table: h
